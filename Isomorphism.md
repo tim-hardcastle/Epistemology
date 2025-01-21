@@ -12,7 +12,7 @@ If we use the standard symbols of modal logic, `□` and `◊`, together with th
 
 Now let's try an epistemological interpretation: `□` means "The evidence shows" and `◊` means "The evidence allows". So now `¬□p → ◊¬p` means : "If the evidence doesn't show p, then the evidence allows p to be false."
 
-Up until now I've emphasized the similarity between these logics. But we want there to be differences. For epample, in the alethic version we very much want the rule `□p → p` to hold, and so introduce it as axiom (M) of the alethic interpretation because then it means "if p is necessarily true, then p is true"; and likewise we add axiom (M) to the temporal interpretation, because then it means "if p is always true, p is true".
+Up until now I've emphasized the similarity between these logics. But we want there to be differences. For example, in the alethic version we very much want the rule `□p → p` to hold, and so introduce it as axiom (M) of the alethic interpretation because then it means "if p is necessarily true, then p is true"; and likewise we add axiom (M) to the temporal interpretation, because then it means "if p is always true, p is true".
 
 But unless we are Dr Pangloss, we don't want it to hold in a deontic system, because then it means: "If p ought to be the case, it is", and so gives us a deontology that denies the actual existence of evil. Nor does my demanding something imply that I have it: that disposes of the egocentric system.
 
