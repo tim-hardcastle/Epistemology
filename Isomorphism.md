@@ -26,13 +26,19 @@ What, then, *can* we reasonably say? Well let's start with the axioms of deontic
 
 "If the evidence shows that p implies q, then if the evidence shows p, then the evidence shows q."
 
+This is true because if `p` logically implies `q`, then the evidence for `p` *is* evidence for `q`, and so the `□q` term doesn't necessarily imply the existence of any *further* evidence.
+
 (NC) : `□p → ¬□¬p`
 
 "If the evidence shows that p, then the evidence does not show that not p."
 
+This makes perfect sense.
+
 (NEC) : if `⊢p` then `⊢□p` 
 
 "What we can derive as a theorem is shown by the evidence."
+
+This is necessary because we need e.g. `p ∨ ¬p` to have *at least* as much evidential status as any merely synthetic proposition!
 
 All the basic axioms seems to stand up. We can also see that the most obvious consequences of SDL also work when translated, eg:
 
@@ -46,7 +52,7 @@ All the basic axioms seems to stand up. We can also see that the most obvious co
 
 (N) : `□⊤` :
 
-"The evidence shows the truth of any tautology."
+"The evidence shows the truth of a tautology."
 
 (RM) : if `⊢p → q` then `⊢□p → □q`
 
