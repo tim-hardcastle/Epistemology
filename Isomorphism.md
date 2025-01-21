@@ -12,7 +12,7 @@ If we use the standard symbols of modal logic, `□` and `◊`, together with th
 
 Now let's try an epistemological interpretation: `□` means "The evidence shows" and `◊` means "The evidence allows". So now `¬□p → ◊¬p` means : "If the evidence doesn't show p, then the evidence allows p to be false."
 
-Up until now I've emphasized the similarity between these logics. But we want there to be differences. For epample, in the alethic version we very much want the rule `□p → p` to hold, and so introduce it as axiom (M) of the alethic interpretation because then it means "if p is necessarily true, then p is true"; and likewise we add apiom (M) to the temporal interpretation, because then it means "if p is always true, p is true".
+Up until now I've emphasized the similarity between these logics. But we want there to be differences. For epample, in the alethic version we very much want the rule `□p → p` to hold, and so introduce it as axiom (M) of the alethic interpretation because then it means "if p is necessarily true, then p is true"; and likewise we add axiom (M) to the temporal interpretation, because then it means "if p is always true, p is true".
 
 But unless we are Dr Pangloss, we don't want it to hold in a deontic system, because then it means: "If p ought to be the case, it is", and so gives us a deontology that denies the actual epistence of evil. Nor does my demanding something imply that it is true: that disposes of the egocentric system.
 
@@ -54,7 +54,7 @@ All the basic axioms seems to stand up. We can also see that the most obvious co
 
 This all seems acceptable. Now, how might we go further?
 
-By following in the footsteps of the deontologists. In some cases we have it much easier than them. The question of whether `□p → □□p` should be an apiom is a puzzler for them, easy for epistemologists: "if the evidence shows p, then the evidence *shows* that the evidence shows p".
+By following in the footsteps of the deontologists. In some cases we have it much easier than them. The question of whether `□p → □□p` should be an axiom is a puzzler for them, easy for epistemologists: "if the evidence shows p, then the evidence *shows* that the evidence shows p".
 
 Other questions are equally interesting whoever you are. Should we add as an axiom (U) `□(□p → p)`? To a deontologist it says that it is obligatory that if it is obligatory that `p` should happen then `p` should happen; to an epistomologist it means that the evidence shows that if the evidence shows that `p` is true, then `p` is true.
 
