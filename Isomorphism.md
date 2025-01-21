@@ -52,18 +52,16 @@ All the basic axioms seems to stand up. We can also see that the most obvious co
 
 "If we can derive as a theorem that p implies q, then we may also say that if the evidence shows p, then the evidence shows q."
 
-This all seems acceptable. Now, how might we go further?
+This all seems acceptable. We might say that the two systems are *isomorphic up to interpretation*: where the isomophism is simply reinterpreting a deonotological formula as epistemological and the quality being preserved by the isomorphism is *making sense*. Things that we want to be results because they make perfect sense, like `□(p ∧ q) → (□p ∧ □q)`, are results. Things that don't make sense and we don't want to be results, like `◊p → □p` are gibberish in both systems ("Everything permitted is compusory; everything possible is true.") 
 
-By following in the footsteps of the deontologists. In some cases we have it much easier than them. The question of whether `□p → □□p` should be an axiom is a puzzler for them, easy for epistemologists: "if the evidence shows p, then the evidence *shows* that the evidence shows p".
+And plausible extensions to the system which cannot be proved in it continue to be plausible extensions. For example the deontologists suggest that we should add as an axiom (U) `□(□p → p)`. To a deontologist it says that it is obligatory that if it is obligatory that `p` should happen then `p` should happen; to an epistomologist it means that the evidence shows that if the evidence shows that `p` is true, then `p` is true.
 
-Other questions are equally interesting whoever you are. Should we add as an axiom (U) `□(□p → p)`? To a deontologist it says that it is obligatory that if it is obligatory that `p` should happen then `p` should happen; to an epistomologist it means that the evidence shows that if the evidence shows that `p` is true, then `p` is true.
-
-Or we can take our logic and apply the Andersonian-Kangerian reduction, discovered by deontologists, which *means* something completely if you're an epistemologist, but which again turns out to mean something that makes perfect sense.
+Or to take a non-random example, it makes equal sense in both cases to take our logic and apply the Andersonian-Kangerian reduction, discovered by deontologists, which *means* something completely if you're an epistemologist, but which again turns out to mean something that *makes perfect sense*.
 
 Consider the A-K reduction from the deontological point of view. We take a normal alethic logic. We introduce a constant, `d`, with the interpretation: "all (relevant) normative demands are met". We add an axiom `◊d`: "all (relevant) normative demands are capable of being met". And then we point out that saying that `p` is obligatory in deontic logic can be translated into saying `□(d → p)` in this new system.
 
 But to reduce epistemological modal logic, we do the same thing but take `d` to mean "the evidence is not misleading" and `◊d` to mean "it is possible that the evidence is not misleading". And then we point out that saying that the evidence shows `p` can be translated into saying `□(d → p)` in this new system.
 
-And this explains why this rather surpising isomorphism between deontology and epistemology goes on working. Because people trying to find out the facts also want normative conditions to be met — by nature, who they wish would "play fair" with them. What is it to say that "the evidence shows" such-and-such, but to say that in a world which rewarded virtue with happiness, the hard work and honesty of researchers would have been rewarded with truth, as they wished?
+And this explains why this rather surprising isomorphism between deontology and epistemology goes on working. Because people trying to find out the facts also want normative conditions to be met — by nature, who they wish would "play fair" with them. What is it to say that "the evidence shows" such-and-such, but to say that in a world which rewarded virtue with happiness, the hard work and honesty of researchers would have been rewarded with truth, as they wished?
 
 It therefore seems likely that continuing this line of investigation (i.e. following the deontologists around and converting their math into the equivalent epistemology) would continue to be interesting.
