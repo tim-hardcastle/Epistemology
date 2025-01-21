@@ -62,7 +62,7 @@ Or we can take our logic and apply the Andersonian-Kangerian reduction, discover
 
 Consider the A-K reduction from the deontological point of view. We take a normal alethic logic. We introduce a constant, `d`, with the interpretation: "all (relevant) normative demands are met". We add an axiom `◊d`: "all (relevant) normative demands are capable of being met". And then we point out that saying that `p` is obligatory in deontic logic can be translated into saying `□(d → p)` in this new system.
 
-But to reduce epistemological modal logic, `d` means "the evidence is not misleading" and `◊d` means "it is possible that the evidence is not misleading". And then we point out that saying that the evidence shows `p` can be translated into saying `□(d → p)` in this new system.
+But to reduce epistemological modal logic, we do the same thing but take `d` to mean "the evidence is not misleading" and `◊d` to mean "it is possible that the evidence is not misleading". And then we point out that saying that the evidence shows `p` can be translated into saying `□(d → p)` in this new system.
 
 And this explains why this rather surpising isomorphism between deontology and epistemology goes on working. Because people trying to find out the facts also want normative conditions to be met — by nature, who they wish would "play fair" with them. What is it to say that "the evidence shows" such-and-such, but to say that in a world which rewarded virtue with happiness, the hard work and honesty of researchers would have been rewarded with truth, as they wished?
 
