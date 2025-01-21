@@ -18,9 +18,9 @@ But unless we are Dr Pangloss, we don't want it to hold in a deontic system, bec
 
 Now, in the epistemological interpretation, we must also go without (M), because we face the usual cases where e.g. all the ravens we've seen so far have been black, and yet can't conclude that all ravens are black.
 
-Can we at least say that if something is true, then the evidence must permit it? (Surely, after all, the fault is with us?) No, that would be `q → ◊q`, or by the contrapostive `¬◊q → ¬q`, so we have `□¬q → ¬q`. So by choice of `q` to be `¬p`, we've proved (M).
+Can we at least say that if something is true, then the evidence must permit it? (Surely, after all, if we think otherwise the fault is with us and not the evidence?) No, that would be `q → ◊q`, or by the contrapostive `¬◊q → ¬q`, so we have `□¬q → ¬q`. So by choice of `q` to be `¬p`, we've proved (M).
 
-What, then, *can* we reasonably say? Well let's start with the axioms of deontic logic. We want all tautologies as usual, and modus ponens of course. Then we have the modal axioms and derivation schemes. We will translate them into English and see if they still work when we're talking about epistemology.
+What, then, *can* we reasonably say? Well let's start with the axioms of Standard Deontic Logic. We want all tautologies as usual, and modus ponens of course. Then we have the modal axioms and derivation schemes. We will translate them into English and see if they still work when we're talking about epistemology.
 
 (K) : `□(p → q) → (□p → □q)`
 
