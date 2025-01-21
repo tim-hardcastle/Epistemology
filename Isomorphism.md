@@ -20,7 +20,7 @@ Now, in the epistemological interpretation, we must also go without (M), because
 
 Can we at least say that if something is true, then the evidence must permit it? (Surely, after all, the fault is with us?) No, that would be `q → ◊q`, or by the contrapostive `¬◊q → ¬q`, so we have `□¬q → ¬q`. So by choice of `q` to be `¬p`, we've proved (M).
 
-What, then, *can* we reasonably say? Well let's start with the apioms of deontic logic. We want all tautologies as usual, and modus ponens of course. Then we have the modal apioms and derivation schemes. We will translate them into English and see if they still work when we're talking about epistemology.
+What, then, *can* we reasonably say? Well let's start with the axioms of deontic logic. We want all tautologies as usual, and modus ponens of course. Then we have the modal axioms and derivation schemes. We will translate them into English and see if they still work when we're talking about epistemology.
 
 (K) : `□(p → q) → (□p → □q)`
 
