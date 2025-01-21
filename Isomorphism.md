@@ -18,7 +18,7 @@ Up until now I've emphasized the similarity between alethic, temporal, deontic, 
 
 But unless we are Dr Pangloss, we don't want it to hold in a deontic system, because then it means: "If p ought to be the case, it is", and so gives us a deontology that denies the actual existence of evil. Nor does my demanding something imply that I have it: that disposes of the egocentric system.
 
-Now, in the evdential interpretation, we must also go without (M), because we face the usual cases where e.g. all the ravens we've seen so far have been black, and yet can't conclude that all ravens are black.
+Now, in the evidential interpretation, we must also go without (M), because we face the usual cases where e.g. all the ravens we've seen so far have been black, and yet can't conclude that all ravens are black.
 
 Can we at least say that if something is true, then the evidence must permit it? (Surely, after all, if we think otherwise the fault is with us and not the evidence?) No, that would be `q → ◊q`, or by the contrapostive `¬◊q → ¬q`, so we have `□¬q → ¬q`. So by choice of `q` to be `¬p`, we've proved (M).
 
