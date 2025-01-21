@@ -62,9 +62,9 @@ This all seems acceptable. We might say that the two systems are *isomorphic up 
 
 And plausible extensions to the system which cannot be proved in it continue to be plausible extensions. For example the deontologists suggest that we should add as an axiom (U) `□(□p → p)`. To a deontologist it says that it is obligatory that if it is obligatory that `p` should happen then `p` should happen; to an epistemologist it means that the evidence shows that if the evidence shows that `p` is true, then `p` is true.
 
-Or to take a non-random example, it makes equal sense in both cases to take our logic and apply the Andersonian-Kangerian reduction, discovered by deontologists, which *means* something completely if you're an epistemologist, but which again turns out to mean something that *makes perfect sense*.
+Or to take a non-random example, it makes equal sense in both cases to take our logic and apply the Andersonian-Kangerian reduction, discovered by deontologists, which *means* something completely different if you're an epistemologist, but which again turns out to mean something that *makes perfect sense*.
 
-Consider the A-K reduction from the deontological point of view. We take a normal alethic logic. We introduce a constant, `d`, with the interpretation: "all (relevant) normative demands are met". We add an axiom `◊d`: "all (relevant) normative demands are capable of being met". And then we point out that saying that `p` is obligatory in deontic logic can be translated into saying `□(d → p)` in this new system.
+Consider the Andersonian-Kangerian reduction from the deontological point of view. We take a normal alethic logic. We introduce a constant, `d`, with the interpretation: "all (relevant) normative demands are met". We add an axiom `◊d`: "all (relevant) normative demands are capable of being met". And then we point out that saying that `p` is obligatory in deontic logic can be translated into saying `□(d → p)` in this new system.
 
 But to reduce epistemological modal logic, we do the same thing but take `d` to mean "the evidence is not misleading" and `◊d` to mean "it is possible that the evidence is not misleading". And then we point out that saying that the evidence shows `p` can be translated into saying `□(d → p)` in this new system.
 
