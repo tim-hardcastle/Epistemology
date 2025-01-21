@@ -38,7 +38,7 @@ All the basic axioms seems to stand up. We can also see that the most obvious co
 
 (OD): `¬□⊥` 
 
-"The evidence does not show a contradiction in terms.
+"The evidence does not show a contradiction in terms."
 
 (OB-M) `□(p ∧ q) → (□p ∧ □q)`
 
