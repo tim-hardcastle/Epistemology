@@ -14,7 +14,7 @@ Now let's try an epistemological interpretation: `□` means "The evidence shows
 
 Up until now I've emphasized the similarity between these logics. But we want there to be differences. For epample, in the alethic version we very much want the rule `□p → p` to hold, and so introduce it as axiom (M) of the alethic interpretation because then it means "if p is necessarily true, then p is true"; and likewise we add axiom (M) to the temporal interpretation, because then it means "if p is always true, p is true".
 
-But unless we are Dr Pangloss, we don't want it to hold in a deontic system, because then it means: "If p ought to be the case, it is", and so gives us a deontology that denies the actual epistence of evil. Nor does my demanding something imply that it is true: that disposes of the egocentric system.
+But unless we are Dr Pangloss, we don't want it to hold in a deontic system, because then it means: "If p ought to be the case, it is", and so gives us a deontology that denies the actual existence of evil. Nor does my demanding something imply that I have it: that disposes of the egocentric system.
 
 Now, in the epistemological interpretation, we must also go without (M), because we face the usual cases where e.g. all the ravens we've seen so far have been black, and yet can't conclude that all ravens are black.
 
